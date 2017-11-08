@@ -2,5 +2,11 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "json": {
+    "name": "json",
+    "localStorage": "",
+    "file": "data.json",
+    "connector": "memory"
   }
 }
